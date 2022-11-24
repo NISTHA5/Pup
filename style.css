@@ -1,0 +1,5 @@
+#logo{
+    margin-top: 1170px;
+}
+#logo{display:block;width:80%;height:auto;border:2px solid white;opacity:1;margin:auto;transition:2s;cursor:pointer;}
+#logo:hover{width:10%;opacity:0;transition:5s;}
